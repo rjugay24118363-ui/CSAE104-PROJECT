@@ -107,9 +107,6 @@ body {
     min-height: 400px;
 }
 
-
-/* LEFT COLUMN: CAMPUS NOTICES */
-
 .notices-section {
     flex: 2;
 
@@ -153,9 +150,6 @@ body {
 .notice-card img:hover {
     transform: scale(1.05);
 }
-
-
-/* RIGHT COLUMN: POST NOTICE */
 
 .post-section {
     flex: 1;
